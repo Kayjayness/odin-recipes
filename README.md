@@ -2,11 +2,11 @@ Hey there, I just finished up my first project at The Odin Project. This project
 
 During this project, I was able to showcase a few skills, like:
 
-    Getting the hang of the basic HTML setup and being able to write it from scratch.
-    Understanding how to structure a basic HTML page.
-    Figuring out how to link things in HTML, work with lists, and add images.
-    Performing basic command line.. commands. For example creating, moving, copying, and deleting files.
-    Tackling the basics of Git and GitHub, such as setting up repositories, making commits, and keeping a log of what I did.
+- Getting the hang of the basic HTML setup and being able to write it from scratch.
+- Understanding how to structure a basic HTML page.
+- Figuring out how to link things in HTML, work with lists, and add images.
+- Performing basic command line.. commands. For example creating, moving, copying, and deleting files.
+- Tackling the basics of Git and GitHub, such as setting up repositories, making commits, and keeping a log of what I did.
 
 I've got to admit, it's pretty cool working with files through the command line. Plus, I've been playing around with Visual Studio Code settings. Plotting down huge block of text doesn't exactly make the code look clean.
 
